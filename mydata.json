@@ -1,0 +1,69 @@
+{
+    "country" :
+[
+    {
+        "name": "India",
+        "code": "IND"
+    },
+    {
+        "name": "South Africa",
+        "code": "RSA"
+    },
+    {
+        "name": "Sri Lanka",
+        "code": "SL"
+    },
+    {
+        "name": "Pakistan",
+        "code": "PAK"
+    },
+    {
+        "name": "England",
+        "code": "Eng"
+    },
+    {
+        "name": "New Zealand",
+        "code": "NZ"
+    },
+     {
+        "name": "Australia",
+        "code": "AUS"
+    },
+    {
+        "name": "New Zealand",
+        "code": "NZ"
+    },
+    {
+        "name": "Bangladesh",
+        "code": "BAN"
+    },
+    {
+        "name": "United States Of America",
+        "code": "USA"
+    },
+    {
+        "name": "Zimbabwe",
+        "code": "ZIM"
+    },
+    {
+        "name": "Ireland",
+        "code": "IRL"
+    },
+    {
+        "name": "West Indies",
+        "code": "WI"
+    },
+    {
+        "name": "Nepal",
+        "code": "NPL"
+    },
+    {
+        "name": "China",
+        "code": "CHN"
+    },
+    {
+        "name": "Japan",
+        "code": "JPN"
+    }
+]   
+}
