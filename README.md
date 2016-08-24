@@ -1,6 +1,6 @@
 # React_Flux_Architecture_Naresh
 
-This example shows how reading json file using React Js
+This example shows how to read local json file using React Js
 
 Steps to run example
 
