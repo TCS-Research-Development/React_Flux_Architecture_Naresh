@@ -1,4 +1,6 @@
-This Demo code shows how to read json data which is stored in local directory and display it in the view using React Js.
+#React Flux Demo Application
+
+This Demo code shows how to read json data which is stored in local directory and display it in the view using React Js Flux Architecture.
 
 Steps to run application
 
