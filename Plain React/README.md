@@ -1,4 +1,4 @@
-# React_Flux_Architecture_Naresh
+# Read and display Json Data using React Js
 
 This Demo code shows how to read json data which is stored in local directory and display it in the view using React Js.
 
